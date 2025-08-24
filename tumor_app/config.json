@@ -2,5 +2,9 @@
     "supabase": {
         "projectId": "https://priifsezqjjmegbvlncd.supabase.co",
         "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InByaWlmc2V6cWpqbWVnYnZsbmNkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU5NzQzODEsImV4cCI6MjA3MTU1MDM4MX0.ieVrr8IS4KwNt_dF56Py2Ex2insdFQxz3bWDuKy0xT4"
+    },
+    "huggingface": {
+        "baseUrl": "https://manthraaa-brain-tumor-detector.hf.space/gradio_api/call/predict_tumor",
+        "predictTumor": "https://manthraaa-brain-tumor-detector.hf.space/gradio_api/call/predict/"
     }
 }
